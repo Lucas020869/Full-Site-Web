@@ -1,0 +1,128 @@
+body{
+	font-family: sans-serif;
+	background-color: WhiteSmoke;
+}
+.entete {
+	padding: 50px;
+	background: linear-gradient(90deg, #8360c3, #2ebf91);
+}
+.banniere {
+	text-align: center;
+	padding: 10px;
+	color: Indianred;
+}
+.titreliste {
+	text-decoration: underline;
+	font-family: serif;
+	font-weight: bolder; 
+	font-size: 35px;
+}
+.liste1{
+	font-family: serif;
+	font-size: 25px;
+}
+.titretableau{
+	text-decoration: underline;
+	font-family: serif;
+	font-weight: bolder; 
+	font-size: 35px;
+}
+td, th {
+	padding: 14px;
+	border: 8px solid black;
+	border-style: ridge;
+}
+table {
+	border-collapse: collapse;
+	
+}
+.tableau1{
+	font-size: 22px;
+	color:CornflowerBlue;
+
+}
+.titrevideo{
+	text-decoration: underline;
+	font-family: serif;
+	font-weight: bolder; 
+	font-size: 25px;
+	color: Indianred;
+}
+.txtvideo{
+	text-align: center;
+	font-size: 25px;
+	font-family: serif;
+	font-weight: bolder; 
+}
+.lienvideo{
+	text-align: center;
+	font-size: 40px;
+
+}
+.baspage{
+	text-align: center;
+	color: white;
+	background: linear-gradient(90deg, #8360c3, #2ebf91);
+	padding: 50px;
+	margin-top: 40px;
+}
+
+h1 {
+	font-size: 85px;
+	color: white;
+	text-align: center;	
+}
+
+h2 {
+	font-size: 35px;
+}
+h3 {
+	font-size: 35px;
+	text-decoration: underline;
+}
+legend{
+	font-size:35px;
+	text-decoration: underline;
+}
+.formulaire1{
+	text-align: center;	
+}
+
+.lienpage{
+	text-align: center;
+	font-size: 25px;
+	padding: 20px;
+}
+
+form {
+  margin: 0 auto;
+  width: 400px;
+
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+button {
+  font-size: 17px;
+  margin-left: 8px;
+}
+
+.tbclassement{
+	font-size: 25px;
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+}
+
+.tdor{
+	background-color: Gold;
+}
+
+.tdsilver{
+		background-color: Silver;
+}
+
+.tdbronze{
+	background-color: #C49C48;
+}
